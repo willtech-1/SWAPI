@@ -11,7 +11,7 @@ https://swapi-willtech-1.vercel.app/
 ```bash
 cd next-project
 ```
-3. Then install all the dev dependencies by typing npm install
+3. Then install modules for all the dev dependencies by typing npm install
 ```bash
 npm install
 ```
