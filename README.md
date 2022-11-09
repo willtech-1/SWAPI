@@ -15,11 +15,11 @@ cd next-project
 ```bash
 npm install
 ```
-2. Then type npm run dev to run the app
+4. Then type npm run dev to run the app
 ```bash
 npm run dev
 ```
-3. Open/click on (http://localhost:3000) with your browser to see the app running
+5. Open/click on (http://localhost:3000) with your browser to see the app running
 
 
 
